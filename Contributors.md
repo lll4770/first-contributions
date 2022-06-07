@@ -3003,6 +3003,7 @@ yejashi
 - Karin
 - Alessandro Garcia
 - Riddhi Banerjee
+- Leon Li (https://github.com/lll4770/)
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
 - [Navneet Kumar] (https://github.com/NavneetKumar2907)
 - [José Londoño](https://github.com/jlondonob)
